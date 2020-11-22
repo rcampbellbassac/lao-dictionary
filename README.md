@@ -1,0 +1,2 @@
+# lao-dictionary
+Lao Wordlist
