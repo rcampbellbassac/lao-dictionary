@@ -6,7 +6,7 @@
 #	This word list was created in order to aid in word wrapping issues.
 #
 #	Project:    https://github.com/rober42539/lao-dictionary
-#	Dictionary: https://github.com/rober42539/lao-dictionary/Lao-Dictionary.txt
+#	Dictionary: https://github.com/rober42539/lao-dictionary/laodict.txt
 #	License:    https://github.com/rober42539/lao-dictionary/LICENSE.txt
 #	Readme:    https://github.com/rober42539/lao-dictionary/README.md
 #
